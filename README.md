@@ -30,13 +30,13 @@ The code first reads the data sets in the zipped file:
 - Activity Labels (activty_labels.txt)
 - Features: variable names for the data sets (features.txt)
 - Training Data:
-..* X_train.txt the training dat set
-..* Y_train.txt the activity factors for the training data set
-..* subject_train.txt the subject factors for the training data set 
+  * X_train.txt the training dat set
+  * Y_train.txt the activity factors for the training data set
+  * subject_train.txt the subject factors for the training data set 
 - Test Data:
-..* X_test the test dat set
-..* Y_test the activity factors for the test data set
-..* subject_test.txt the subject factors for the test data set
+  * X_test the test dat set
+  * Y_test the activity factors for the test data set
+  * subject_test.txt the subject factors for the test data set
 
 
 The code runs the analysis for the following:
