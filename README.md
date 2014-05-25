@@ -39,7 +39,7 @@ The code first reads the data sets in the zipped file:
   * subject_test.txt the subject factors for the test data set
 
 
-The code runs the analysis for the following:
+The code runs the analysis for the following:  
 1. Merges the training and the test sets to create one data set.  
 2. Extracts only the measurements on the mean and standard deviation for each measurement.  
 3. Uses descriptive activity names to name the activities in the data set.  
